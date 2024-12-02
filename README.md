@@ -1,1 +1,1 @@
-Advent Of Code 2024 Sols
+Advent Of Code 2024
